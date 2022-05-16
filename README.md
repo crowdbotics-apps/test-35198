@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [terms-and-conditions]()
 - [react-native-app-menu](modules/app-menu)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
